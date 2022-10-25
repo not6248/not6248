@@ -3,6 +3,7 @@
 - 👀 สนใจในทุกอย่าง ...
 - 🌱 กำลังเรียนรู้ ...
 - 📫 ช่องทางติดต่อ
+
     - [![Build Status](https://img.shields.io/badge/-เอกภพ-1877F2?logo=Facebook&logoColor=white)](https://www.facebook.com/Not6248)
 
 <!---
