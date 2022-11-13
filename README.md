@@ -15,9 +15,6 @@ if(ขี้เกียจ > 1){
 }
 ```
 
-
-![](https://i.redd.it/ui69p6c45bz61.jpg)
-
     
 <!---
 not6248/not6248 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
