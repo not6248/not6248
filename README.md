@@ -7,17 +7,12 @@
     - [![Build Status](https://img.shields.io/badge/-แตงโม-000000?logo=Steam&logoColor=white)](https://steamcommunity.com/id/NOT6248)
     - [![Build Status](https://img.shields.io/badge/-NOT6248-FF0000?logo=YouTube&logoColor=white)](https://www.youtube.com/c/not6248)
 
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+```php
+if(ขี้เกียจ > 1){
+    นอน
+}else{
+    ทำงาน
+}
 ```
 
 ![](https://i.redd.it/ui69p6c45bz61.jpg)
