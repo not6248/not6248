@@ -1,9 +1,9 @@
 # แนะนำตัว
-- 👋 สวัสดี ผมคือ @not6248
+- 👋 สวัสดีผมชื่อ น๊อต
 - 👀 สนใจในทุกอย่าง ...
-- 🌱 กำลังเรียนรู้ ...
+- 🌱 ชอบการเรียนรู้ ...
 - 📫 LINK
-- 
+
     - [![Build Status](https://img.shields.io/badge/-FACEBOOK-1877F2?logo=Facebook&logoColor=white)](https://www.facebook.com/Not6248)
     - [![Build Status](https://img.shields.io/badge/-STEAM-000000?logo=Steam&logoColor=white)](https://steamcommunity.com/id/NOT6248)
     - [![Build Status](https://img.shields.io/badge/-YOUTUBE-FF0000?logo=YouTube&logoColor=white)](https://www.youtube.com/c/not6248)
