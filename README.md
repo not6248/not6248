@@ -3,9 +3,11 @@
 - 👀 สนใจในทุกอย่าง ...
 - 🌱 กำลังเรียนรู้ ...
 - 📫 ช่องทางติดต่อ
-    - [![Build Status](https://img.shields.io/badge/-เอกภพ-1877F2?logo=Facebook&logoColor=white)](https://www.facebook.com/Not6248)
-    - [![Build Status](https://img.shields.io/badge/-แตงโม-000000?logo=Steam&logoColor=white)](https://steamcommunity.com/id/NOT6248)
-    - [![Build Status](https://img.shields.io/badge/-NOT6248-FF0000?logo=YouTube&logoColor=white)](https://www.youtube.com/c/not6248)
+    - [![Build Status](https://img.shields.io/badge/-FACEBOOK-1877F2?logo=Facebook&logoColor=white)](https://www.facebook.com/Not6248)
+    - 
+    - [![Build Status](https://img.shields.io/badge/-STEAM-000000?logo=Steam&logoColor=white)](https://steamcommunity.com/id/NOT6248)
+    - 
+    - [![Build Status](https://img.shields.io/badge/-YOUTUBE-FF0000?logo=YouTube&logoColor=white)](https://www.youtube.com/c/not6248)
 
 ```php
 if(ขี้เกียจ > 1){
@@ -14,6 +16,7 @@ if(ขี้เกียจ > 1){
     ทำงาน
 }
 ```
+
 
 ![](https://i.redd.it/ui69p6c45bz61.jpg)
 
