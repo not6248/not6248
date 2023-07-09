@@ -9,8 +9,8 @@
     - [![Build Status](https://img.shields.io/badge/-YOUTUBE-FF0000?logo=YouTube&logoColor=white)](https://www.youtube.com/c/not6248)
 
 ```php
-if(ขี้เกียจ > 1){
-    นอน
+if(เหนื่อย > 1){
+    นอนพัก
 }else{
     ทำงาน
 }
