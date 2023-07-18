@@ -20,7 +20,8 @@
 - 👋 สวัสดีผมชื่อ น๊อต
 - 👀 สนใจในทุกอย่าง ...
 - 🌱 ชอบการเรียนรู้ ...
-
+"There's no shame in not knowing an answer, so long as you have a desire to learn."\
+💬 Cyrus Albright (Octopath Traveler)
 
 ```php
 if(เหนื่อย > 1){
@@ -30,8 +31,6 @@ if(เหนื่อย > 1){
 }
 ```
 
-"There's no shame in not knowing an answer, so long as you have a desire to learn."
-💬 Cyrus Albright (Octopath Traveler)
 
 
 
