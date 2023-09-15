@@ -34,6 +34,7 @@ if(เหนื่อย > 1){
 }
 ```
 
+![image](https://github.com/not6248/not6248/assets/96365700/67b87a9a-8766-4227-8628-76f98f25f6c7)
 
 
 
