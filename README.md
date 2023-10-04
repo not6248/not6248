@@ -27,7 +27,7 @@
 Difficult doesn't mean impossible. It simply means that you have to work hard.
 
 ```php
-if(เหนื่อย > 1){
+if(เหนื่อย >= 1){
     นอนพัก
 }else{
     ทำงาน
