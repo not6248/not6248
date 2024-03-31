@@ -37,10 +37,10 @@
 - 👀 สนใจในทุกอย่าง 
 - 🌱 ชอบการเรียนรู้ 
   
-"There's no shame in not knowing an answer, so long as you have a desire to learn."\
+" There's no shame in not knowing an answer, so long as you have a desire to learn. "\
 💬 Cyrus Albright (Octopath Traveler)
 
-Difficult doesn't mean impossible. It simply means that you have to work hard.
+" Difficult doesn't mean impossible. It simply means that you have to work hard. " 
 
 ```php
 if(เหนื่อย >= 1){
