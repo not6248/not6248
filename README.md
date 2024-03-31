@@ -27,7 +27,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=js,ts,php,java,mysql)](https://skillicons.dev) <br><br>
 [![My Skills](https://skillicons.dev/icons?i=angular,react,nextjs,bootstrap,jquery)](https://skillicons.dev) <br><br>
-[![My Skills](https://skillicons.dev/icons?i=vscode,figma,blender,ps,notion,github,gitlab)](https://skillicons.dev) <br><br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,blender,ps,notion,github)](https://skillicons.dev) <br><br>
 [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev) <br>
 
 
