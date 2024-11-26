@@ -35,13 +35,6 @@
 
 " Difficult doesn't mean impossible. It simply means that you have to work hard. " 
 
-```php
-if(เหนื่อย >= 1){
-    นอนพัก
-}else{
-    ทำงาน
-}
-```
 
 ![image](https://github.com/not6248/not6248/assets/96365700/67b87a9a-8766-4227-8628-76f98f25f6c7)
 
