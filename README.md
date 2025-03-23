@@ -38,8 +38,7 @@
 [![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=%20There%27s%20no%20shame%20in%20not%20knowing%20an%20answer%2C%20so%20long%20as%20you%20have%20a%20desire%20to%20learn%20&type=horizontal&author=Cyrus%20Albright%20%28Octopath%20Traveler%29&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
 [![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=%20The%20only%20way%20to%20go%20fast%2C%20is%20to%20go%20well%20&type=horizontal&author=Uncle%20Bob&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
 
-
-![image](https://github.com/not6248/not6248/assets/96365700/67b87a9a-8766-4227-8628-76f98f25f6c7)
+<img src="https://github.com/user-attachments/assets/45dffdc7-d3d6-4869-821f-c7a55c5cb4a0" width=50%>
 
 
     
