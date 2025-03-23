@@ -18,8 +18,8 @@
 [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev) <br>
 <h4 align="left">Basic Knowledge:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=sass,angular,react,nextjs)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=ts,sass)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=angular,react,nextjs)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,npm,git)](https://skillicons.dev) <br>
 
 # แนะนำตัว
