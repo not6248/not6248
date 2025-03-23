@@ -22,22 +22,17 @@
 [![My Skills](https://skillicons.dev/icons?i=sass,angular,react,nextjs)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,npm,git)](https://skillicons.dev) <br>
 
-
-
-
 # แนะนำตัว
 - 👋 สวัสดีผมชื่อ น๊อต
 - 👀 สนใจในทุกอย่าง 
 - 🌱 ชอบการเรียนรู้ 
   
-" There's no shame in not knowing an answer, so long as you have a desire to learn. "\
-💬 Cyrus Albright (Octopath Traveler)
-
-" Difficult doesn't mean impossible. It simply means that you have to work hard. " 
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Difficult%20doesn%27t%20mean%20impossible.%20It%20simply%20means%20that%20you%20have%20to%20work%20hard&type=horizontal&author=%20&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=%20There%27s%20no%20shame%20in%20not%20knowing%20an%20answer%2C%20so%20long%20as%20you%20have%20a%20desire%20to%20learn%20&type=horizontal&author=Cyrus%20Albright%20%28Octopath%20Traveler%29&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=%20The%20only%20way%20to%20go%20fast%2C%20is%20to%20go%20well%20&type=horizontal&author=Uncle%20Bob&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 ![image](https://github.com/not6248/not6248/assets/96365700/67b87a9a-8766-4227-8628-76f98f25f6c7)
-
 
 
     
