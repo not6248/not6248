@@ -18,7 +18,7 @@
 <h3 align="left">Languages & Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,php)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=dotnet,bootstrap,jquery)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=dotnet,bootstrap,tailwind,jquery)](https://skillicons.dev) <br>
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,figma,blender,ps,notion,github)](https://skillicons.dev) <br><br>
 [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev) <br>
 <h3 align="left">Currently Exploring:</h4>
