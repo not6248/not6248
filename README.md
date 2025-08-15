@@ -35,13 +35,18 @@
 
 
 ## Quotes
- > _"Difficult doesn't mean impossible. It simply means that you have to work hard"_
- 
- > _"There's no shame in not knowing an answer, so long as you have a desire to learn"_
- > <br>&nbsp;&nbsp;- Cyrus Albright (Octopath Traveler)
+> _"Difficult doesn't mean impossible. It simply means that you have to work hard"_
 
- > _"The only way to go fast, is to go well"_
- > <br>&nbsp;&nbsp; - Uncle Bob
+> _"Question everything"_
+
+> _"There's no shame in not knowing an answer, so long as you have a desire to learn"_
+> <br>&nbsp;&nbsp;- Cyrus Albright (Octopath Traveler)
+
+> _"The only way to go fast, is to go well"_
+> <br>&nbsp;&nbsp; - Uncle Bob
 
 > _"Genius is one percent inspiration, and ninety-nine percent perspiration"_
 > <br>&nbsp;&nbsp; – Thomas Edison
+
+> _"Jidoka"_
+> <br>&nbsp;&nbsp; – Sakichi Toyoda
