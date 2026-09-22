@@ -28,9 +28,9 @@ status: "👀 curious about everything, seriously everything."
 ---
 ### ⚙️ `~/languages-and-tools`
 <p align="left"> 
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,cs,php" /></a> <br> 
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,cs" /></a> <br> 
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,jquery,dotnet" /></a> <br> 
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=visualstudio,vscode,figma,blender,ps,notion,obsidian,github" /></a> 
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=visualstudio,vscode,blender,ps,notion,obsidian,github" /></a> 
 </p> 
 
 
