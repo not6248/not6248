@@ -30,16 +30,16 @@ status: "👀 curious about everything, seriously everything."
 <p align="left"> 
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,cs" /></a> <br> 
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,jquery,dotnet" /></a> <br> 
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=visualstudio,vscode,blender,ps,notion,obsidian,github" /></a> 
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=visualstudio,vscode,notion,obsidian,github" /></a> 
 </p> 
 
 
 ### 🚧 `~/currently-exploring` 
-<p align="left"> <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,bash" /></a> <br> 
+<p align="left"> 
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=blender,postgres" /></a> <br> 
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,ts" /></a> <br> 
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,npm,git" /></a> <br> 
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kubernetes,docker,jenkins" /></a> <br> 
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres" /></a> 
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,bash,kubernetes,docker,jenkins" /></a>
 </p> 
 
 ---
