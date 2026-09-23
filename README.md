@@ -33,21 +33,50 @@ status: "👀 curious about everything, seriously everything."
 </a>
 
 ---
-### ⚙️ `~/languages-and-tools`
-<p align="left"> 
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,cs" /></a> <br> 
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,jquery,dotnet" /></a> <br> 
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=visualstudio,vscode,notion,obsidian,github" /></a> 
-</p> 
 
-
-### 🚧 `~/currently-exploring` 
-<p align="left"> 
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=blender,postgres" /></a> <br> 
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,ts" /></a> <br> 
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,npm,git" /></a> <br> 
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,bash,kubernetes,docker,jenkins" /></a>
-</p> 
+<!-- prettier-ignore -->
+<table>
+    <thead>
+        <tr>
+            <th width="500px">⚙️ <code>~/languages-and-tools</code></th>
+            <th width="500px">🚧 <code>~/currently-exploring</code></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign="top">
+                <p align="left">
+                    <a href="https://skillicons.dev">
+                        <img src="https://skillicons.dev/icons?i=html,css,js,cs" />
+                    </a>
+                    <br />
+                    <a href="https://skillicons.dev">
+                        <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,jquery,dotnet" />
+                    </a>
+                    <br />
+                    <a href="https://skillicons.dev">
+                        <img src="https://skillicons.dev/icons?i=visualstudio,vscode,notion,obsidian,github" />
+                    </a>
+                </p>
+            </td>
+            <td valign="top">
+                <p align="left">
+                    <a href="https://skillicons.dev">
+                        <img src="https://skillicons.dev/icons?i=blender,postgres" />
+                    </a>
+                    <br />
+                    <a href="https://skillicons.dev">
+                        <img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,npm,git" />
+                    </a>
+                    <br />
+                    <a href="https://skillicons.dev">
+                        <img src="https://skillicons.dev/icons?i=linux,bash,kubernetes,docker,jenkins" />
+                    </a>
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ---
 
