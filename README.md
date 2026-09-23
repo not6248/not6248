@@ -15,8 +15,6 @@ $ whoami
 
 </div>
 
----
-
 ### 🧠 `~/about-me`
 
 ```yaml
@@ -25,8 +23,6 @@ mindset: growth
 current_focus: "learning something new every day"
 status: "👀 curious about everything, seriously everything."
 ```
-
----
 
 <!-- prettier-ignore -->
 <table>
@@ -72,23 +68,13 @@ status: "👀 curious about everything, seriously everything."
     </tbody>
 </table>
 
----
-
 ### 🔗 `~/connect`
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aekkapob-pangtan-31478626b)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/not6248)
 [![Duolingo](https://api.pixel-87.uk/api/duolingo/button?username=nnot6248)](#)
 
-</div>
-
----
-
 ### 💬 `~/quotes.log`
-
-<div align="center">
   
 > _"Difficult doesn't mean impossible. It simply means that you have to work hard"_
 
@@ -105,11 +91,8 @@ status: "👀 curious about everything, seriously everything."
 
 > _"Jidoka"_
 > <br>&nbsp;&nbsp;— Sakichi Toyoda
-</div>
 
 <div align="center">
-
----
   
 ```
 $ echo "Thanks for stopping by!"
