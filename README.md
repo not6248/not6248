@@ -25,14 +25,6 @@ mindset: growth
 current_focus: "learning something new every day"
 status: "👀 curious about everything, seriously everything."
 ```
-<div align="center">
-<a href="https://github.com/pixel-87/duo-streak-widget" rel="ed.thomas.dev" target="_blank">
-  <img src="https://api.pixel-87.uk/api/duolingo/button?username=nnot6248"
-       alt="My Duolingo"
-       title="My Duolingo"
-  />
-</a>
-</div>
 
 ---
 
@@ -85,15 +77,10 @@ status: "👀 curious about everything, seriously everything."
 ### 🔗 `~/connect`
 
 <div align="center">
-  
-<p>
-  <a href="https://www.linkedin.com/in/aekkapob-pangtan-31478626b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/not6248" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aekkapob-pangtan-31478626b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/not6248)
+[![Duolingo](https://api.pixel-87.uk/api/duolingo/button?username=nnot6248)](#)
 
 </div>
 
