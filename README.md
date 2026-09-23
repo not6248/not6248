@@ -25,12 +25,14 @@ mindset: growth
 current_focus: "learning something new every day"
 status: "👀 curious about everything, seriously everything."
 ```
+<div align="center">
 <a href="https://github.com/pixel-87/duo-streak-widget" rel="ed.thomas.dev" target="_blank">
   <img src="https://api.pixel-87.uk/api/duolingo/button?username=nnot6248"
        alt="My Duolingo"
        title="My Duolingo"
   />
 </a>
+</div>
 
 ---
 
@@ -82,7 +84,9 @@ status: "👀 curious about everything, seriously everything."
 
 ### 🔗 `~/connect`
 
-<p align="left">
+<div align="center">
+  
+<p>
   <a href="https://www.linkedin.com/in/aekkapob-pangtan-31478626b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -91,10 +95,14 @@ status: "👀 curious about everything, seriously everything."
   </a>
 </p>
 
+</div>
+
 ---
 
 ### 💬 `~/quotes.log`
 
+<div align="center">
+  
 > _"Difficult doesn't mean impossible. It simply means that you have to work hard"_
 
 > _"Question everything"_
@@ -110,10 +118,11 @@ status: "👀 curious about everything, seriously everything."
 
 > _"Jidoka"_
 > <br>&nbsp;&nbsp;— Sakichi Toyoda
-
----
+</div>
 
 <div align="center">
+
+---
   
 ```
 $ echo "Thanks for stopping by!"
