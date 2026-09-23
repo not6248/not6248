@@ -25,6 +25,13 @@ mindset: growth
 current_focus: "learning something new every day"
 status: "👀 curious about everything, seriously everything."
 ```
+<a href="https://github.com/pixel-87/duo-streak-widget" rel="ed.thomas.dev" target="_blank">
+  <img src="https://api.pixel-87.uk/api/duolingo/button?username=nnot6248"
+       alt="My Duolingo"
+       title="My Duolingo"
+  />
+</a>
+
 ---
 ### ⚙️ `~/languages-and-tools`
 <p align="left"> 
