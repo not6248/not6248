@@ -37,7 +37,7 @@ status: "👀 curious about everything, seriously everything."
             <td valign="top">
                 <p align="left">
                     <a href="https://skillicons.dev">
-                        <img src="https://skillicons.dev/icons?i=html,css,js,cs" />
+                        <img src="https://skillicons.dev/icons?i=html,css,js,cs,[]" />
                     </a>
                     <br />
                     <a href="https://skillicons.dev">
@@ -52,7 +52,7 @@ status: "👀 curious about everything, seriously everything."
             <td valign="top">
                 <p align="left">
                     <a href="https://skillicons.dev">
-                        <img src="https://skillicons.dev/icons?i=blender,postgres" />
+                        <img src="https://skillicons.dev/icons?i=blender,postgres,[],[],[]" />
                     </a>
                     <br />
                     <a href="https://skillicons.dev">
