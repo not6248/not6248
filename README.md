@@ -72,7 +72,6 @@ status: "👀 curious about everything, seriously everything."
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aekkapob-pangtan-31478626b)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/not6248)
-[![Duolingo](https://api.pixel-87.uk/api/duolingo/button?username=nnot6248)](#)
 
 ### 💬 `~/quotes.log`
   
